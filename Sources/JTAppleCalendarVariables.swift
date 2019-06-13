@@ -74,6 +74,15 @@ extension JTAppleCalendarView {
         return theData.totalDays
     }
     
+    /// Returns the actual number of days in the calendar view (e.g. march days: 31, april days: 30, ...)
+    open var actualNumberOfDays: Int {
+        if let lastMonth = theData.months.last {
+            return lastMonth.startDayIndex + lastMonth.numberOfDaysInMonth
+        } else {
+            return 0
+        }
+    }
+    
     var calendarViewLayout: JTAppleCalendarLayout {
         guard let layout = collectionViewLayout as? JTAppleCalendarLayout else {
             developerError(string: "Calendar layout is not of type JTAppleCalendarLayout.")
