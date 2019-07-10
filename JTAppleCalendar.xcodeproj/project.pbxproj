@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		63E2336422D61E26004D1B42 /* JTAppleCalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2335122D61E25004D1B42 /* JTAppleCalendarView.swift */; };
-		63E2336522D61E26004D1B42 /* UserInteractionFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2335222D61E25004D1B42 /* UserInteractionFunctions.swift */; };
-		63E2336622D61E26004D1B42 /* Info-iOS.plist in Resources */ = {isa = PBXBuildFile; fileRef = 63E2335322D61E25004D1B42 /* Info-iOS.plist */; };
-		63E2336722D61E26004D1B42 /* JTAppleCalendarLayoutProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2335422D61E25004D1B42 /* JTAppleCalendarLayoutProtocol.swift */; };
-		63E2336822D61E26004D1B42 /* InternalActionFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2335522D61E25004D1B42 /* InternalActionFunctions.swift */; };
-		63E2336922D61E26004D1B42 /* JTAppleCollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2335622D61E25004D1B42 /* JTAppleCollectionReusableView.swift */; };
-		63E2336A22D61E26004D1B42 /* JTAppleCalendarDelegateProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2335722D61E25004D1B42 /* JTAppleCalendarDelegateProtocol.swift */; };
-		63E2336B22D61E26004D1B42 /* JTCalendarProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2335822D61E25004D1B42 /* JTCalendarProtocols.swift */; };
-		63E2336C22D61E26004D1B42 /* CalendarStructs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2335922D61E25004D1B42 /* CalendarStructs.swift */; };
-		63E2336D22D61E26004D1B42 /* CalendarEnums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2335A22D61E25004D1B42 /* CalendarEnums.swift */; };
-		63E2336E22D61E26004D1B42 /* UIScrollViewDelegates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2335B22D61E25004D1B42 /* UIScrollViewDelegates.swift */; };
-		63E2336F22D61E26004D1B42 /* InternalQueryFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2335C22D61E25004D1B42 /* InternalQueryFunctions.swift */; };
-		63E2337022D61E26004D1B42 /* Info-tvOS.plist in Resources */ = {isa = PBXBuildFile; fileRef = 63E2335D22D61E25004D1B42 /* Info-tvOS.plist */; };
-		63E2337122D61E26004D1B42 /* JTAppleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2335E22D61E25004D1B42 /* JTAppleCell.swift */; };
-		63E2337222D61E26004D1B42 /* JTAppleCalendarVariables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2335F22D61E25004D1B42 /* JTAppleCalendarVariables.swift */; };
-		63E2337322D61E26004D1B42 /* JTAppleCalendarLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2336022D61E25004D1B42 /* JTAppleCalendarLayout.swift */; };
-		63E2337422D61E26004D1B42 /* UICollectionViewDelegates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2336122D61E25004D1B42 /* UICollectionViewDelegates.swift */; };
-		63E2337522D61E26004D1B42 /* GlobalFunctionsAndExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2336222D61E25004D1B42 /* GlobalFunctionsAndExtensions.swift */; };
-		63E2337622D61E26004D1B42 /* JTAppleCalendar.h in Headers */ = {isa = PBXBuildFile; fileRef = 63E2336322D61E25004D1B42 /* JTAppleCalendar.h */; };
+		63E2338B22D6216E004D1B42 /* JTAppleCalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2337822D6216E004D1B42 /* JTAppleCalendarView.swift */; };
+		63E2338C22D6216E004D1B42 /* UserInteractionFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2337922D6216E004D1B42 /* UserInteractionFunctions.swift */; };
+		63E2338D22D6216E004D1B42 /* Info-iOS.plist in Resources */ = {isa = PBXBuildFile; fileRef = 63E2337A22D6216E004D1B42 /* Info-iOS.plist */; };
+		63E2338E22D6216E004D1B42 /* JTAppleCalendarLayoutProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2337B22D6216E004D1B42 /* JTAppleCalendarLayoutProtocol.swift */; };
+		63E2338F22D6216E004D1B42 /* InternalActionFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2337C22D6216E004D1B42 /* InternalActionFunctions.swift */; };
+		63E2339022D6216E004D1B42 /* JTAppleCollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2337D22D6216E004D1B42 /* JTAppleCollectionReusableView.swift */; };
+		63E2339122D6216E004D1B42 /* JTAppleCalendarDelegateProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2337E22D6216E004D1B42 /* JTAppleCalendarDelegateProtocol.swift */; };
+		63E2339222D6216E004D1B42 /* JTCalendarProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2337F22D6216E004D1B42 /* JTCalendarProtocols.swift */; };
+		63E2339322D6216E004D1B42 /* CalendarStructs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2338022D6216E004D1B42 /* CalendarStructs.swift */; };
+		63E2339422D6216E004D1B42 /* CalendarEnums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2338122D6216E004D1B42 /* CalendarEnums.swift */; };
+		63E2339522D6216E004D1B42 /* UIScrollViewDelegates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2338222D6216E004D1B42 /* UIScrollViewDelegates.swift */; };
+		63E2339622D6216E004D1B42 /* InternalQueryFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2338322D6216E004D1B42 /* InternalQueryFunctions.swift */; };
+		63E2339722D6216E004D1B42 /* Info-tvOS.plist in Resources */ = {isa = PBXBuildFile; fileRef = 63E2338422D6216E004D1B42 /* Info-tvOS.plist */; };
+		63E2339822D6216E004D1B42 /* JTAppleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2338522D6216E004D1B42 /* JTAppleCell.swift */; };
+		63E2339922D6216E004D1B42 /* JTAppleCalendarVariables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2338622D6216E004D1B42 /* JTAppleCalendarVariables.swift */; };
+		63E2339A22D6216E004D1B42 /* JTAppleCalendarLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2338722D6216E004D1B42 /* JTAppleCalendarLayout.swift */; };
+		63E2339B22D6216E004D1B42 /* UICollectionViewDelegates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2338822D6216E004D1B42 /* UICollectionViewDelegates.swift */; };
+		63E2339C22D6216E004D1B42 /* GlobalFunctionsAndExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E2338922D6216E004D1B42 /* GlobalFunctionsAndExtensions.swift */; };
+		63E2339D22D6216E004D1B42 /* JTAppleCalendar.h in Headers */ = {isa = PBXBuildFile; fileRef = 63E2338A22D6216E004D1B42 /* JTAppleCalendar.h */; };
 		6B198EA91F41F06100442008 /* TestPersianCalendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B198EA81F41F06100442008 /* TestPersianCalendar.swift */; };
 		6B198EAA1F41F06100442008 /* TestPersianCalendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B198EA81F41F06100442008 /* TestPersianCalendar.swift */; };
 		6B19FCD4211ACAF8009C8C9B /* TestRangeSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B19FCD2211ACABE009C8C9B /* TestRangeSelectionViewController.swift */; };
@@ -146,25 +146,25 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		63E2335122D61E25004D1B42 /* JTAppleCalendarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCalendarView.swift; sourceTree = "<group>"; };
-		63E2335222D61E25004D1B42 /* UserInteractionFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserInteractionFunctions.swift; sourceTree = "<group>"; };
-		63E2335322D61E25004D1B42 /* Info-iOS.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Info-iOS.plist"; sourceTree = "<group>"; };
-		63E2335422D61E25004D1B42 /* JTAppleCalendarLayoutProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCalendarLayoutProtocol.swift; sourceTree = "<group>"; };
-		63E2335522D61E25004D1B42 /* InternalActionFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InternalActionFunctions.swift; sourceTree = "<group>"; };
-		63E2335622D61E25004D1B42 /* JTAppleCollectionReusableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCollectionReusableView.swift; sourceTree = "<group>"; };
-		63E2335722D61E25004D1B42 /* JTAppleCalendarDelegateProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCalendarDelegateProtocol.swift; sourceTree = "<group>"; };
-		63E2335822D61E25004D1B42 /* JTCalendarProtocols.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTCalendarProtocols.swift; sourceTree = "<group>"; };
-		63E2335922D61E25004D1B42 /* CalendarStructs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarStructs.swift; sourceTree = "<group>"; };
-		63E2335A22D61E25004D1B42 /* CalendarEnums.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarEnums.swift; sourceTree = "<group>"; };
-		63E2335B22D61E25004D1B42 /* UIScrollViewDelegates.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIScrollViewDelegates.swift; sourceTree = "<group>"; };
-		63E2335C22D61E25004D1B42 /* InternalQueryFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InternalQueryFunctions.swift; sourceTree = "<group>"; };
-		63E2335D22D61E25004D1B42 /* Info-tvOS.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Info-tvOS.plist"; sourceTree = "<group>"; };
-		63E2335E22D61E25004D1B42 /* JTAppleCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCell.swift; sourceTree = "<group>"; };
-		63E2335F22D61E25004D1B42 /* JTAppleCalendarVariables.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCalendarVariables.swift; sourceTree = "<group>"; };
-		63E2336022D61E25004D1B42 /* JTAppleCalendarLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCalendarLayout.swift; sourceTree = "<group>"; };
-		63E2336122D61E25004D1B42 /* UICollectionViewDelegates.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UICollectionViewDelegates.swift; sourceTree = "<group>"; };
-		63E2336222D61E25004D1B42 /* GlobalFunctionsAndExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalFunctionsAndExtensions.swift; sourceTree = "<group>"; };
-		63E2336322D61E25004D1B42 /* JTAppleCalendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTAppleCalendar.h; sourceTree = "<group>"; };
+		63E2337822D6216E004D1B42 /* JTAppleCalendarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCalendarView.swift; sourceTree = "<group>"; };
+		63E2337922D6216E004D1B42 /* UserInteractionFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserInteractionFunctions.swift; sourceTree = "<group>"; };
+		63E2337A22D6216E004D1B42 /* Info-iOS.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Info-iOS.plist"; sourceTree = "<group>"; };
+		63E2337B22D6216E004D1B42 /* JTAppleCalendarLayoutProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCalendarLayoutProtocol.swift; sourceTree = "<group>"; };
+		63E2337C22D6216E004D1B42 /* InternalActionFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InternalActionFunctions.swift; sourceTree = "<group>"; };
+		63E2337D22D6216E004D1B42 /* JTAppleCollectionReusableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCollectionReusableView.swift; sourceTree = "<group>"; };
+		63E2337E22D6216E004D1B42 /* JTAppleCalendarDelegateProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCalendarDelegateProtocol.swift; sourceTree = "<group>"; };
+		63E2337F22D6216E004D1B42 /* JTCalendarProtocols.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTCalendarProtocols.swift; sourceTree = "<group>"; };
+		63E2338022D6216E004D1B42 /* CalendarStructs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarStructs.swift; sourceTree = "<group>"; };
+		63E2338122D6216E004D1B42 /* CalendarEnums.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarEnums.swift; sourceTree = "<group>"; };
+		63E2338222D6216E004D1B42 /* UIScrollViewDelegates.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIScrollViewDelegates.swift; sourceTree = "<group>"; };
+		63E2338322D6216E004D1B42 /* InternalQueryFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InternalQueryFunctions.swift; sourceTree = "<group>"; };
+		63E2338422D6216E004D1B42 /* Info-tvOS.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Info-tvOS.plist"; sourceTree = "<group>"; };
+		63E2338522D6216E004D1B42 /* JTAppleCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCell.swift; sourceTree = "<group>"; };
+		63E2338622D6216E004D1B42 /* JTAppleCalendarVariables.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCalendarVariables.swift; sourceTree = "<group>"; };
+		63E2338722D6216E004D1B42 /* JTAppleCalendarLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JTAppleCalendarLayout.swift; sourceTree = "<group>"; };
+		63E2338822D6216E004D1B42 /* UICollectionViewDelegates.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UICollectionViewDelegates.swift; sourceTree = "<group>"; };
+		63E2338922D6216E004D1B42 /* GlobalFunctionsAndExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalFunctionsAndExtensions.swift; sourceTree = "<group>"; };
+		63E2338A22D6216E004D1B42 /* JTAppleCalendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTAppleCalendar.h; sourceTree = "<group>"; };
 		6B198EA81F41F06100442008 /* TestPersianCalendar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestPersianCalendar.swift; sourceTree = "<group>"; };
 		6B19FCD2211ACABE009C8C9B /* TestRangeSelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestRangeSelectionViewController.swift; sourceTree = "<group>"; };
 		6B4025F11DFB8CE40083E6AE /* Animation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Animation.swift; path = Animation/Animation.swift; sourceTree = "<group>"; };
@@ -270,30 +270,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		63E2335022D61E25004D1B42 /* JTAppleCalendar */ = {
+		63E2337722D6216E004D1B42 /* JTAppleCalendar iOS */ = {
 			isa = PBXGroup;
 			children = (
-				63E2335122D61E25004D1B42 /* JTAppleCalendarView.swift */,
-				63E2335222D61E25004D1B42 /* UserInteractionFunctions.swift */,
-				63E2335322D61E25004D1B42 /* Info-iOS.plist */,
-				63E2335422D61E25004D1B42 /* JTAppleCalendarLayoutProtocol.swift */,
-				63E2335522D61E25004D1B42 /* InternalActionFunctions.swift */,
-				63E2335622D61E25004D1B42 /* JTAppleCollectionReusableView.swift */,
-				63E2335722D61E25004D1B42 /* JTAppleCalendarDelegateProtocol.swift */,
-				63E2335822D61E25004D1B42 /* JTCalendarProtocols.swift */,
-				63E2335922D61E25004D1B42 /* CalendarStructs.swift */,
-				63E2335A22D61E25004D1B42 /* CalendarEnums.swift */,
-				63E2335B22D61E25004D1B42 /* UIScrollViewDelegates.swift */,
-				63E2335C22D61E25004D1B42 /* InternalQueryFunctions.swift */,
-				63E2335D22D61E25004D1B42 /* Info-tvOS.plist */,
-				63E2335E22D61E25004D1B42 /* JTAppleCell.swift */,
-				63E2335F22D61E25004D1B42 /* JTAppleCalendarVariables.swift */,
-				63E2336022D61E25004D1B42 /* JTAppleCalendarLayout.swift */,
-				63E2336122D61E25004D1B42 /* UICollectionViewDelegates.swift */,
-				63E2336222D61E25004D1B42 /* GlobalFunctionsAndExtensions.swift */,
-				63E2336322D61E25004D1B42 /* JTAppleCalendar.h */,
+				63E2337822D6216E004D1B42 /* JTAppleCalendarView.swift */,
+				63E2337922D6216E004D1B42 /* UserInteractionFunctions.swift */,
+				63E2337A22D6216E004D1B42 /* Info-iOS.plist */,
+				63E2337B22D6216E004D1B42 /* JTAppleCalendarLayoutProtocol.swift */,
+				63E2337C22D6216E004D1B42 /* InternalActionFunctions.swift */,
+				63E2337D22D6216E004D1B42 /* JTAppleCollectionReusableView.swift */,
+				63E2337E22D6216E004D1B42 /* JTAppleCalendarDelegateProtocol.swift */,
+				63E2337F22D6216E004D1B42 /* JTCalendarProtocols.swift */,
+				63E2338022D6216E004D1B42 /* CalendarStructs.swift */,
+				63E2338122D6216E004D1B42 /* CalendarEnums.swift */,
+				63E2338222D6216E004D1B42 /* UIScrollViewDelegates.swift */,
+				63E2338322D6216E004D1B42 /* InternalQueryFunctions.swift */,
+				63E2338422D6216E004D1B42 /* Info-tvOS.plist */,
+				63E2338522D6216E004D1B42 /* JTAppleCell.swift */,
+				63E2338622D6216E004D1B42 /* JTAppleCalendarVariables.swift */,
+				63E2338722D6216E004D1B42 /* JTAppleCalendarLayout.swift */,
+				63E2338822D6216E004D1B42 /* UICollectionViewDelegates.swift */,
+				63E2338922D6216E004D1B42 /* GlobalFunctionsAndExtensions.swift */,
+				63E2338A22D6216E004D1B42 /* JTAppleCalendar.h */,
 			);
-			path = JTAppleCalendar;
+			path = "JTAppleCalendar iOS";
 			sourceTree = "<group>";
 		};
 		6B4025F01DFB8CB80083E6AE /* Animation */ = {
@@ -342,7 +342,7 @@
 		6B60DED21D5BDAF4009174A2 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				63E2335022D61E25004D1B42 /* JTAppleCalendar */,
+				63E2337722D6216E004D1B42 /* JTAppleCalendar iOS */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -500,7 +500,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63E2337622D61E26004D1B42 /* JTAppleCalendar.h in Headers */,
+				63E2339D22D6216E004D1B42 /* JTAppleCalendar.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -720,8 +720,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63E2337022D61E26004D1B42 /* Info-tvOS.plist in Resources */,
-				63E2336622D61E26004D1B42 /* Info-iOS.plist in Resources */,
+				63E2339722D6216E004D1B42 /* Info-tvOS.plist in Resources */,
+				63E2338D22D6216E004D1B42 /* Info-iOS.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -847,22 +847,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63E2337322D61E26004D1B42 /* JTAppleCalendarLayout.swift in Sources */,
-				63E2336E22D61E26004D1B42 /* UIScrollViewDelegates.swift in Sources */,
-				63E2337522D61E26004D1B42 /* GlobalFunctionsAndExtensions.swift in Sources */,
-				63E2336822D61E26004D1B42 /* InternalActionFunctions.swift in Sources */,
-				63E2337422D61E26004D1B42 /* UICollectionViewDelegates.swift in Sources */,
-				63E2336422D61E26004D1B42 /* JTAppleCalendarView.swift in Sources */,
-				63E2336C22D61E26004D1B42 /* CalendarStructs.swift in Sources */,
-				63E2337122D61E26004D1B42 /* JTAppleCell.swift in Sources */,
-				63E2336722D61E26004D1B42 /* JTAppleCalendarLayoutProtocol.swift in Sources */,
-				63E2337222D61E26004D1B42 /* JTAppleCalendarVariables.swift in Sources */,
-				63E2336922D61E26004D1B42 /* JTAppleCollectionReusableView.swift in Sources */,
-				63E2336B22D61E26004D1B42 /* JTCalendarProtocols.swift in Sources */,
-				63E2336522D61E26004D1B42 /* UserInteractionFunctions.swift in Sources */,
-				63E2336F22D61E26004D1B42 /* InternalQueryFunctions.swift in Sources */,
-				63E2336D22D61E26004D1B42 /* CalendarEnums.swift in Sources */,
-				63E2336A22D61E26004D1B42 /* JTAppleCalendarDelegateProtocol.swift in Sources */,
+				63E2339A22D6216E004D1B42 /* JTAppleCalendarLayout.swift in Sources */,
+				63E2339522D6216E004D1B42 /* UIScrollViewDelegates.swift in Sources */,
+				63E2339C22D6216E004D1B42 /* GlobalFunctionsAndExtensions.swift in Sources */,
+				63E2338F22D6216E004D1B42 /* InternalActionFunctions.swift in Sources */,
+				63E2339B22D6216E004D1B42 /* UICollectionViewDelegates.swift in Sources */,
+				63E2338B22D6216E004D1B42 /* JTAppleCalendarView.swift in Sources */,
+				63E2339322D6216E004D1B42 /* CalendarStructs.swift in Sources */,
+				63E2339822D6216E004D1B42 /* JTAppleCell.swift in Sources */,
+				63E2338E22D6216E004D1B42 /* JTAppleCalendarLayoutProtocol.swift in Sources */,
+				63E2339922D6216E004D1B42 /* JTAppleCalendarVariables.swift in Sources */,
+				63E2339022D6216E004D1B42 /* JTAppleCollectionReusableView.swift in Sources */,
+				63E2339222D6216E004D1B42 /* JTCalendarProtocols.swift in Sources */,
+				63E2338C22D6216E004D1B42 /* UserInteractionFunctions.swift in Sources */,
+				63E2339622D6216E004D1B42 /* InternalQueryFunctions.swift in Sources */,
+				63E2339422D6216E004D1B42 /* CalendarEnums.swift in Sources */,
+				63E2339122D6216E004D1B42 /* JTAppleCalendarDelegateProtocol.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -38,7 +38,7 @@
 /// to the month be in color black, while the colors of previous months be in
 /// color gray.
 ///
-import Foundation
+import UIKit
 public struct CellState {
     /// returns true if a cell is selected
     public let isSelected: Bool
