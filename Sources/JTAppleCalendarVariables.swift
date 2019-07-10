@@ -21,7 +21,7 @@
 //  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 //  THE SOFTWARE.
 //
-
+import UIKit
 // Calculated Variables
 extension JTAppleCalendarView {
     /// Workaround for Xcode bug that prevents you from connecting the delegate in the storyboard.
